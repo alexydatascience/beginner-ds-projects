@@ -1,6 +1,6 @@
 ## Taxi orders prediction for the next hour
   
-  Time series decomposition and forecasting.
+  Time series decomposition and forecasting.  
   Feature engineering. Parameters optimization.
   
 ### Libraries  
