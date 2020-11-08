@@ -3,8 +3,7 @@ My study data science and machine learning projects.
 Name with link | Short desription|Libraries|
 ----|-----|-----|
 [toxic_comment_classification](https://github.com/AlexeyEvzrezov/DS_projects/tree/master/toxic_comment_classification)| Text preprocessing and classification using TF-IDF and pretrained BERT. | pandas, numpy, sklearn, nltk, transformers, simpletransformers, plotly |
-[time_series_taxi_orders_prediction](https://github.com/AlexeyEvzrezov/DS_projects/tree/master/time_series_taxi_orders_prediction)| Time series decomposition and forecasting.
-Feature engineering. Parameters optimization. | pandas, numpy, statsmodels, sklearn, lightgbm, plotly, matplotlib |
+[time_series_taxi_orders_prediction](https://github.com/AlexeyEvzrezov/DS_projects/tree/master/time_series_taxi_orders_prediction)| Time series decomposition and forecasting. Feature engineering. Parameters optimization. | pandas, numpy, statsmodels, sklearn, lightgbm, plotly, matplotlib |
 Car price prediction, RMSE minimizing. LightGBM, CatBoost, and XGBoost comparison. | pandas, numpy, sklearn, lightgbm, catboost, xgboost, plotly, matplotlib |
 [car_price_prediction](https://github.com/AlexeyEvzrezov/DS_projects/tree/master/car_price_prediction)|Used car price analysis. Data cleaning and exploration.
 Car price prediction, RMSE minimizing. LightGBM, CatBoost, and XGBoost comparison. | pandas, numpy, sklearn, lightgbm, catboost, xgboost, plotly, matplotlib |
