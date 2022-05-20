@@ -1,5 +1,4 @@
-# DS_projects
-My study data science and machine learning projects.   
+# DS Projects
 Name with link | Short desription|Libraries|
 ----|-----|-----|
 [toxic_comment_classification](https://github.com/AlexeyEvzrezov/DS_projects/tree/master/toxic_comment_classification)| Text preprocessing and classification using TF-IDF and pretrained BERT. | pandas, numpy, sklearn, nltk, transformers, simpletransformers, plotly |
